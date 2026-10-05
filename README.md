@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/jahnavithatha17-cyber/applied-coding-skills/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/jahnavithatha17-cyber/applied-coding-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/jahnavithatha17-cyber/applied-coding-skills/tree/master/0641-design-circular-deque) |
 ## Hash Table
 |  |
@@ -29,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/jahnavithatha17-cyber/applied-coding-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/jahnavithatha17-cyber/applied-coding-skills/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/jahnavithatha17-cyber/applied-coding-skills/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/jahnavithatha17-cyber/applied-coding-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/jahnavithatha17-cyber/applied-coding-skills/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/jahnavithatha17-cyber/applied-coding-skills/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
@@ -43,5 +46,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/jahnavithatha17-cyber/applied-coding-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/jahnavithatha17-cyber/applied-coding-skills/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
